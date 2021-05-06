@@ -1,3 +1,12 @@
+This repository was forked from [Code Path's Android Guides Repository](https://github.com/codepath/android_guides) and will be continually updated to match their main branch in order to make it easier for beginners to find Android application guides that help make their ideas a reality.
+
+[![GitHub license](https://img.shields.io/github/license/The-Freedom-Wrapper-Project/Varna-Template?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/Varna-Template/blob/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/The-Freedom-Wrapper-Project/Varna-Template?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/Varna-Template/network/) [![GitHub stars](https://img.shields.io/github/stars/The-Freedom-Wrapper-Project/Varna-Template?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/Varna-Template/stargazers)
+
+![TFWPBanner](https://github.com/The-Freedom-Wrapper-Project/tfwp/blob/master/TFWPLogo.png)
+
+The original repository README is below and has been left intact in order to attribute, credit, and provide links and references to Code Path so you can find more information on your journey to become an Android entrepreneur. Enjoy!
+# 
+
 # CodePath Android Cliffnotes
 
 Welcome to the open-source [Codepath](http://codepath.com) Android Cliffnotes! Our goal is to become the **central crowdsourced resource** for complete and up-to-date Android content and tutorials. [Just take me to the notes](https://github.com/codepath/android_guides/wiki#getting-started)!
